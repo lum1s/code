@@ -1,17 +1,17 @@
 def set_server():
-    server = "irc.s-m-s.pl"
+    server = ""
     return server
 def set_port():
     port = 6697
     return port
 def set_channel():
-    channel = "#sms"
+    channel = ""
     return channel
 def set_botnick():
-    botnick = "luBot"
+    botnick = ""
     return botnick
 def set_password():
-    password = "q1w2e3r4t5y6"
+    password = ""
     return password
 def set_saysomething():
     saysomething = ":saysomething"
@@ -29,17 +29,17 @@ def set_lapaList():
     lapaList = ['o/','\o']
     return lapaList
 def set_dataBase():
-    dataBase = '/tmp/test.sqlite'
+    dataBase = ''
     return dataBase
 def set_log():
-    log = '/tmp/log.txt'
+    log = ''
     return log
 def set_pytania():
-    pytania = '/tmp/pytania.txt'
+    pytania = ''
     return pytania
 def set_sqlCommon():
     sqlCommon = ['select','drop','insert','update']
     return sqlCommon
 def set_op1():
-    op1 = ['prezes','lum1s']
+    op1 = ['']
     return op1
